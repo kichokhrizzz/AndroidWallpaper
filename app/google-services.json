@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "56221823111",
+    "project_id": "wallpapers-cedbf",
+    "storage_bucket": "wallpapers-cedbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56221823111:android:12f4cc659781944744c822",
+        "android_client_info": {
+          "package_name": "com.example.fondos_de_pantalla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56221823111-ippdv55564fi1jdjluv71pfd54egjgr6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fondos_de_pantalla",
+            "certificate_hash": "3e0786d25d33ecfce4bb9cf44b7f5968e81d15be"
+          }
+        },
+        {
+          "client_id": "56221823111-hj4m3lhnt23dkospv3ve3mt0ssnknugt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgMUq3t5207t8NlkH6-nn3ZloqKLa2gOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56221823111-hj4m3lhnt23dkospv3ve3mt0ssnknugt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
